@@ -10,3 +10,4 @@ class Shoe
     puts "Your shoe is as good as new!"
     brand.condition = new
   end
+end
